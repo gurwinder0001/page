@@ -1,0 +1,615 @@
+<section id="{{ section.id }}" class="custom-product-tab-with-carousel">
+  <div class="custom-container">
+<div class="collection">
+  <div class="title-wrapper--self-padded-mobile title-wrapper--no-top-margin text-align-center">
+           <!-- <h6 class="sub-heading sub_title">
+              Favorite Items
+            </h6>  -->
+            <h2 class="title h2">
+             Lieblingsstücke für einzigartiges Esse
+            </h2></div>
+  <div class="image-with-text__grid grid">
+    <div class="grid__items tab-template--22518065103142__783e0a15-bf3d-49c0-af6c-7d261324e01c-js" id="tab-template--22518065103142__783e0a15-bf3d-49c0-af6c-7d261324e01c-js" data-tab-wrapper="tab-main-template--22518065103142__783e0a15-bf3d-49c0-af6c-7d261324e01c">
+            <div class="tabs">
+              
+                
+                <div class="tablinks" id="dT_tab-1">
+                  <div class="tab_image"></div>
+                  <div class="tab_title">
+                        Appetizers
+                 </div>
+                </div>
+  
+                <div class="tablinks" id="dT_tab-2">
+                  <div class="tab_image"></div>
+                  <div class="tab_title">
+                        Drinks 
+                </div>
+                </div>
+                 <div class="tablinks" id="dT_tab-3">
+                  <div class="tab_image"></div>
+                  <div class="tab_title">
+                        Lunch Platter 
+                  </div>
+                </div>
+               <div class="tablinks" id="dT_tab-4">
+                  <div class="tab_image"></div>
+                  <div class="tab_title">
+                        Dinner 
+                  </div>
+                </div>
+              
+            </div>
+
+            <div class="tabs_container">
+
+
+
+
+
+              
+                <div class="tab_details dt-sc-tabs-content-Details active" data-tab="dT_tab-1">
+                  <div class="block_section">
+                    <div class="left_blocks block-564188b3-a519-4658-8b45-410c4da8a282">
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Papadum</h4>
+                            <p>papadam also known as papad, is a snack that originated in the Indian subcontinent. Dough of black gram bean flour </p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/poppadoms.jpg?v=1741856762" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Gemischter salad</h4>
+                            <p>The mixed salad plate that is made with an assortment of vegetable-based salads all plated together</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/Healthy_food_Salad_menu_template.jpg?v=1741861610" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Raita</h4>
+                            <p>Raita is a quick side dish made with curd, veggies, spices & herbs. It is usually</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/raita_final.jpg?v=1741856520" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+
+                    <div class="right_blocks block-564188b3-a519-4658-8b45-410c4da8a282">
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Knusprige Hahnchan Nuggests</h4>
+                            <p>Gres tempus turpis at metus scelerisque placerat  nulla deumantos solicitud felis..</p>
+                          </div>
+                          <div class="image_block">
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/Chicken_Nuggets_Ads.jpg?v=1741864260" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Partion rice</h4>
+                            <p>fluffy basmati rice flavored with butter, saffron, and cumin, topped with slices of beautiful golden</p>
+                          </div>
+                          <div class="image_block">                       
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/Delicious_Basmati_Rice.jpg?v=1741860713" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Pommes</h4>
+                            <p>Preheat some oil in a deep fryer or a pot to 300°. Add the prepared potatoes to a large container</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/chana_chaat.jpg?v=1741856525" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+
+
+
+
+
+
+
+
+
+              
+              
+                <div class="tab_details dt-sc-tabs-content-Details" data-tab="dT_tab-2">
+                  <div class="block_section">
+                    <div class="left_blocks block-71a7c3b8-d8dd-42ee-93ad-f9088567747a">
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Wasser</h4>
+                            <p>sanctuary with a refined water experience from world class quality products by&nbsp;Wasser. With&nbsp;Wasser, life feels much</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/side-view-still-water-glass-wooden-cutting-board-blue-background.jpg?v=1741858572" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Mango lassi</h4>
+                            <p>Mango Lassi&nbsp;is a popular lassi variety made with Indian yogurt (dahi/ curd), ripe sweet mangoes and cardamoms</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/delicious-indian-mango-drink-high-angle.jpg?v=1741857085" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Berry chaska</h4>
+                            <p>berry chaska house All varieties items are there </p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/Mocktail_Berry_Punch.jpg?v=1741856526" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+
+                    <div class="right_blocks block-71a7c3b8-d8dd-42ee-93ad-f9088567747a">
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Cola/Sprite</h4>
+                            <p>Sprite's crisp taste with hit of lemon-lime flavour&nbsp;gives you that unmatched cut-through refreshment</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/iced-cola-glass.jpg?v=1741858323" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Karak Chai</h4>
+                            <p>A simple step by step method to&nbsp;make the best karak chai, or karak tea, is a delicious strong</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/steaming-cup-coffee-with-cinnamon-sticks-star-anise-coffee-beans-dark-background_1.jpg?v=1741858455" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Mint lemonade</h4>
+                            <p>crushed ice, water, 2 cut lemons, juice of 1&nbsp;lemon, fresh&nbsp;mint, and sugar to the pitcher of a high-quality blende</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/Lemonade_Day_Ads.jpg?v=1741860652" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              
+                <div class="tab_details dt-sc-tabs-content-Details" data-tab="dT_tab-3">
+                  <div class="block_section">
+                    <div class="left_blocks block-a121430f-894f-4010-a519-971f7a935d8a">
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Butter Chicken</h4>
+                            <p>gegrilltes Hühnerbrustfilet, in Tomaten Buttercremesoße. &nbsp; &nbsp;*(g) (1)</p>
+                          </div>
+                          <div class="image_block">        
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/kadai-chicken-1_1c5123ae-f3fe-4480-96ad-c0106fe80af0.jpg?v=1741859590" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Chicken Tikka Masala</h4>
+                            <p>gegrilltes Hühnerbrustfilet, gebraten mit Tomaten, Zwiebeln, Ingwer und Knoblauch. &nbsp; &nbsp;*(g) (h) (1)</p>
+                          </div>
+                          <div class="image_block"> 
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/chicken_tikka_masala.jpg?v=1741856527" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Panner Makhani</h4>
+                            <p>Spicy Meals Panner Makhani</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/AdobeStock_596326101.jpg?v=1741771755" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+
+                    <div class="right_blocks block-a121430f-894f-4010-a519-971f7a935d8a">
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Daal Tadka</h4>
+                            <p>Dal Tadka is one of the most popular North Indian</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/front-view-lentil-soup-with-salt-tomatoes-dark-bread-loafs-dark-surface.jpg?v=1741782730" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Knusprige Hahnchan Nuggests</h4>
+                            <p>Die Eier mit Paprikapulver, Salz und Pfeffer verquirlen. Die Hähnchenbrust in mundgerechte Stückche</p>
+                          </div>
+                          <div class="image_block">           
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/Chicken_Nuggets_Ads.jpg?v=1741864260" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Prawn Masala</h4>
+                            <p>Prawns are cooked in a spicy and fragrant masala&nbsp;made with onions, tomatoes</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/thai-food-tom-yum-kung-river-prawn-spicy-soup.jpg?v=1741860505" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              
+                <div class="tab_details dt-sc-tabs-content-Details" data-tab="dT_tab-4">
+                  <div class="block_section">
+                    <div class="left_blocks block-399f0e68-3295-4a2b-bf9b-41a27a05a432">
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Chicken Tikka Masala</h4>
+                            <p>gegrilltes Hühnerbrustfilet, gebraten mit Tomaten, Zwiebeln, Ingwer und Knoblauch(1)</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/chicken_tikka_masala.jpg?v=1741856527" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Lamm Pulao</h4>
+                            <p>The classic comfort food, Lamb Pulaoin all its grand yet simple delight. This is an&nbsp;easy one-pot recipe</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/lamb-bone-sauteed-bone-broth-with-herbs-tomato-sauce.jpg?v=1741860253" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Salad</h4>
+                            <p>In a medium bowl, whisk the vinegar with the salt, pepper, mustard, and grated shallot. Slowly whisk in each oil, then the mayonnaise</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/Healthy_food_Salad_menu_template.jpg?v=1741864024" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+
+                    <div class="right_blocks block-399f0e68-3295-4a2b-bf9b-41a27a05a432">
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Chana Chaat</h4>
+                            <p>Chana chaat&nbsp;is a delicious street snack made with boiled chickpeas, onions, tomatoes</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/chanachaat.jpg?v=1741859448" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Chiken Kadhai</h4>
+                            <p>Kadai Chicken&nbsp;also known as Karahi&nbsp;Chicken&nbsp;is a popular dish from the Indian sub-continent</p>
+                          </div>
+                          <div class="image_block">
+                            
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/kadai-chicken-1_1c5123ae-f3fe-4480-96ad-c0106fe80af0.jpg?v=1741859590" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+
+                      <a href="#" class="block-link">
+                        <div class="block_wrapper">
+                          <div class="content">
+                            <h4 class="block_title">Lab-E-Shireen</h4>
+                            <p>traditional Pakistani custard-like dessert. It is often served during the month of Ramadan or during the days of Eid</p>
+                          </div>
+                          <div class="image_block">
+                              <img src="https://cdn.shopify.com/s/files/1/0908/2509/7590/files/milk-dessert-table.jpg?v=1741858991" width="150" height="150" loading="lazy">
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+</section>
+      <style>
+  .custom-product-tab-with-carousel .tabs .tablinks.active {
+    background: #041527;
+  }
+    .custom-product-tab-with-carousel .tabs {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 3rem;
+    justify-content: center;
+    row-gap: 10px;
+  }
+ .custom-product-tab-with-carousel .tabs .tablinks {
+    color: #ffffff;
+    cursor: pointer;
+    padding: 5px 3.5rem;
+    margin: 0 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border-right: none;
+    box-shadow: none;
+    transition: all .3s linear;
+    font-weight: 600;
+    flex-wrap: wrap;
+    border-radius: 3rem;
+}
+  .custom-product-tab-with-carousel .tabs .tablinks {
+    color: #ffffff;
+    cursor: pointer;
+    padding: 5px 3.5rem;
+    margin: 0 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border-right: none;
+    box-shadow: none;
+    transition: all .3s linear;
+    font-weight: 600;
+    flex-wrap: wrap;
+    background: #c59d5f;
+    border-radius: 3rem;
+}
+  #{{ section.id }} .custom-container{
+    width:84%;
+    margin:0 auto;
+  }
+  #{{ section.id }} .block_section {
+    display: flex;
+    column-gap: 30px;
+}
+ #{{ section.id }}.custom-product-tab-with-carousel .tabs_container .dt-sc-tabs-content-Details:not(.active) {
+    opacity: 0;
+    pointer-events: none;
+    display: none;
+}
+    .left_blocks.block-564188b3-a519-4658-8b45-410c4da8a282, .right_blocks.block-564188b3-a519-4658-8b45-410c4da8a282 {
+    background-image: url('https://cdn.shopify.com/s/files/1/0908/2509/7590/files/pg-bg.png?v=1741589911');
+    background-size: contain;
+    padding: 50px;
+    background-color: #fffaf2;
+    border-radius: 20px;
+}
+  .left_blocks.block-71a7c3b8-d8dd-42ee-93ad-f9088567747a, .right_blocks.block-71a7c3b8-d8dd-42ee-93ad-f9088567747a {
+    background-image: url('https://cdn.shopify.com/s/files/1/0908/2509/7590/files/pg-bg.png?v=1741589911');
+    background-size: contain;
+    padding: 50px;
+    background-color: #fffaf2;
+    border-radius: 20px;
+}
+ .left_blocks.block-a121430f-894f-4010-a519-971f7a935d8a, .right_blocks.block-a121430f-894f-4010-a519-971f7a935d8a {
+    background-image: url('https://cdn.shopify.com/s/files/1/0908/2509/7590/files/pg-bg.png?v=1741589911');
+    background-size: contain;
+    padding: 50px;
+    background-color: #fffaf2;
+    border-radius: 20px;
+}
+  .left_blocks.block-399f0e68-3295-4a2b-bf9b-41a27a05a432, .right_blocks.block-399f0e68-3295-4a2b-bf9b-41a27a05a432 {
+    background-image: url('https://cdn.shopify.com/s/files/1/0908/2509/7590/files/pg-bg.png?v=1741589911');
+    background-size: contain;
+    padding: 50px;
+    background-color: #fffaf2;
+    border-radius: 20px;
+}
+   #{{ section.id }} .block_wrapper {
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+   #{{ section.id }} .title.h2 {
+    margin: 0 0 20px 0;
+    font-weight: 900;
+    font-size:32px;
+    text-align:center;
+  }
+   #{{ section.id }} .sub_title {
+    font-family: 'Tangerine', cursive;
+    letter-spacing: 0;
+    font-weight: 400;
+    margin: 0!important;
+    color: #c59d5f;
+    font-size: 3.4rem;
+    line-height: normal;
+    text-align:center;
+}
+#{{ section.id }} .left_blocks, #{{ section.id }} .right_blocks {
+    width: 50%;
+}
+#{{ section.id }} .block_wrapper .content .block_title {
+    color: #041527;
+    transition: all .3s linear;
+    margin: 0 0 1rem;
+    font-size:22px;
+    text-transform: capitalize;
+}
+#{{ section.id }} .block_wrapper .content p {
+    margin: 0;
+    color: #041527;
+}
+ .left_blocks .block_wrapper .image_block, .right_blocks .block_wrapper .image_block {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+#{{ section.id }} .block_wrapper .image_block img {
+    width: 100%;
+    height: 100%;
+}
+#{{ section.id }} .block-link .block_wrapper .image_block:before {
+    content: "";
+    width: 0%;
+    height: 0%;
+    background: #041527;
+    position: absolute;
+    transition: all .3s linear;
+    opacity: 0;
+    border-radius: 50%;
+    border: 5px solid #c59d5f;
+}
+ .left_blocks .block-link:not(:last-child), .right_blocks .block-link:not(:last-child) {
+    margin-bottom: 5rem;
+    display:block;
+}
+#{{ section.id }} .block_wrapper .content {
+    width: calc(100% - 160px);
+}
+@media(max-width:767px){
+  #{{ section.id }} .custom-container{
+    width:95%;
+  }
+  #{{ section.id }} .block_section{
+    flex-direction:column;
+  }
+  #{{ section.id }} .left_blocks, #{{ section.id }} .right_blocks {
+    width: 100%;
+  }
+   .left_blocks.block-564188b3-a519-4658-8b45-410c4da8a282, .right_blocks.block-564188b3-a519-4658-8b45-410c4da8a282{
+     padding:15px;
+   }
+   .left_blocks.block-71a7c3b8-d8dd-42ee-93ad-f9088567747a, .right_blocks.block-71a7c3b8-d8dd-42ee-93ad-f9088567747a{
+     padding:15px;
+   }
+   .left_blocks.block-a121430f-894f-4010-a519-971f7a935d8a, .right_blocks.block-a121430f-894f-4010-a519-971f7a935d8a{
+     padding:15px;
+   }
+   .left_blocks.block-399f0e68-3295-4a2b-bf9b-41a27a05a432, .right_blocks.block-399f0e68-3295-4a2b-bf9b-41a27a05a432{
+     padding:15px;
+   }
+}
+      </style>
+      <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+      <script>
+  $('.tab-template--22518065103142__783e0a15-bf3d-49c0-af6c-7d261324e01c-js').each(function(){
+    $(this).find('.dt-sc-tabs-content-Details:first').addClass('active');
+  $(this).find('.tablinks:first').addClass('active');
+  });
+
+  $('.tab-template--22518065103142__783e0a15-bf3d-49c0-af6c-7d261324e01c-js .tablinks').each(function(){
+    $(this).on('click', function(){
+    var $this = $(this);
+    var $theTab = $(this).attr('id');
+    $(this).fadeIn('slow').siblings(".dt-sc-tabs-content-Details").hide();
+    if($this.hasClass('active')){
+      // do nothing
+
+    } else {
+     $this.closest('.tab-template--22518065103142__783e0a15-bf3d-49c0-af6c-7d261324e01c-js').find('.tabs .tablinks, .tabs_container .dt-sc-tabs-content-Details').removeClass('active'); $('.tablinks[id="'+$theTab+'"]').addClass('active');
+     $('.tab-template--22518065103142__783e0a15-bf3d-49c0-af6c-7d261324e01c-js .tabs_container .dt-sc-tabs-content-Details[data-tab="'+$theTab+'"], .tab-template--22518065103142__783e0a15-bf3d-49c0-af6c-7d261324e01c-js .tabs .tablinks[id="'+$theTab+'"]').addClass('active');
+       }
+     });
+    });
+</script>
+{% schema %}
+  {
+    "name": "custom tabs",
+    "settings": [],
+    "presets": [
+      {
+        "name": "custom tabs"
+      }
+    ]
+  }
+{% endschema %}
